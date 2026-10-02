@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="MetaMotion Banner — Physics Simulations, AI Tools & STEM Education" width="100%" />
+</p>
+
 # Hi there, I'm Asit Purohit 👋
 
 Physics Educator, Computational Simulation Engineer & Founder based in **Sambalpur, Odisha, India** 🇮🇳  
@@ -40,4 +44,4 @@ Founder of [**MetaMotion**](https://metamotion.in).
 - 📺 **YouTube**: [@MetaMotions7](https://www.youtube.com/@MetaMotions7)
 - 📍 **Location**: Sambalpur, Odisha, India
 
-⭐ *Feel free to explore my repositories and star the projects!*
+⭐ *Feel free to explore my repositories and star the projects you find useful!*
